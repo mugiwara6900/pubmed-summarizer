@@ -1,0 +1,17 @@
+# Private talk track for the video
+VIDEO_SCRIPT.md
+
+# Run output
+results.jsonl
+*.jsonl
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# Secrets and OS files
+.env
+.DS_Store
